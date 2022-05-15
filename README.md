@@ -1,7 +1,13 @@
+
 A new virtual host scanner. 
-scanner as code.
 use crystal language.
 keep simple.
+
+Advantage:
+1. Simple
+2. Cross platform (Linux Windows OSX)
+3. Scan As Code
+
 
 RUN
 动态编译运行
