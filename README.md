@@ -1,4 +1,5 @@
-A new virtual host scanner. scanner as code .
+A new virtual host scanner. 
+scanner as code.
 use crystal language.
 keep simple.
 
