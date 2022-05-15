@@ -3,11 +3,13 @@ scanner as code.
 use crystal language.
 keep simple.
 
-###RUN
+RUN
+动态编译运行
 ![run](run.png)
 
 
-###BUILD
+BUILD
+编译后运行
 ![build](build.png)
 
 v0.1
